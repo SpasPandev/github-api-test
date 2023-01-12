@@ -1,0 +1,4 @@
+
+1. Login page
+2. Registration page
+3. Home page
